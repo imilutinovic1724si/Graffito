@@ -1,0 +1,1237 @@
+[GRESKA][31.10.2025 21:21] Morate selektovati roditeljski cvor
+[OBAVESTENJE][31.10.2025 21:21] Projekat 'proba ' uspesno kreiran
+[OBAVESTENJE][31.10.2025 21:21] Slide 'moj ' uspesno kreiran
+[OBAVESTENJE][31.10.2025 21:21] Cvor 'moj' obrisan
+[OBAVESTENJE][31.10.2025 21:22] Cvor smo preimenovali iz 'proba' u 'proba1'
+[OBAVESTENJE][31.10.2025 21:22] Cvor 'proba1' obrisan
+[GRESKA][31.10.2025 21:22] Morate selektovati cvor
+[GRESKA][31.10.2025 21:33] Morate selektovati roditeljski cvor
+[OBAVESTENJE][31.10.2025 21:33] Projekat 'proba ' uspesno kreiran
+[OBAVESTENJE][31.10.2025 21:33] Prezentacija 'q ' uspesno kreirana
+[OBAVESTENJE][31.10.2025 21:33] Slide 'qqq ' uspesno kreiran
+[OBAVESTENJE][31.10.2025 21:33] Cvor smo preimenovali iz 'qqq' u 'a'
+[GRESKA][31.10.2025 21:34] Projekat sa ovim imenom vec posotji
+[GRESKA][31.10.2025 21:34] Ne mozete obrisati Workspace
+[OBAVESTENJE][31.10.2025 21:34] Cvor 'proba' obrisan
+[GRESKA][31.10.2025 23:28] Morate selektovati roditeljski cvor
+[OBAVESTENJE][31.10.2025 23:28] Projekat 'o ' uspesno kreiran
+[OBAVESTENJE][31.10.2025 23:28] Slide 'aa ' uspesno kreiran
+[GRESKA][31.10.2025 23:28] Morate selektovati roditeljski cvor
+[GRESKA][31.10.2025 23:28] Slide ne moze imati decu!
+[OBAVESTENJE][31.10.2025 23:29] Slide 'aaaaa ' uspesno kreiran
+[GRESKA][01.11.2025 16:36] Morate selektovati projekat
+[GRESKA][01.11.2025 20:41] Morate selektovati roditeljski cvor
+[OBAVESTENJE][01.11.2025 20:41] Projekat 'mm ' uspesno kreiran
+[OBAVESTENJE][01.11.2025 20:41] Prezentacija 'hhh ' uspesno kreirana
+[OBAVESTENJE][01.11.2025 20:41] Slide 'bb ' uspesno kreiran
+[OBAVESTENJE][01.11.2025 20:42] Slide 'mmmm ' uspesno kreiran
+[GRESKA][01.11.2025 20:42] Morate selektovati projekat
+[GRESKA][01.11.2025 20:42] Morate selektovati projekat
+[GRESKA][01.11.2025 20:42] Morate selektovati projekat
+[GRESKA][01.11.2025 20:42] Selektovani cvor nije projekat
+[OBAVESTENJE][01.11.2025 20:42] Cvor 'mmmm' obrisan
+[GRESKA][01.11.2025 20:43] Morate selektovati projekat
+[GRESKA][01.11.2025 20:43] Morate selektovati projekat
+[OBAVESTENJE][01.11.2025 20:43] Naslov promenjen u m
+[OBAVESTENJE][01.11.2025 20:43] Slide 'kkk ' uspesno kreiran
+[GRESKA][01.11.2025 23:33] Morate selektovati roditeljski cvor
+[OBAVESTENJE][01.11.2025 23:34] Projekat 'aaa ' uspesno kreiran
+[OBAVESTENJE][01.11.2025 23:34] Prezentacija 'z ' uspesno kreirana
+[OBAVESTENJE][01.11.2025 23:34] Slide 'aaaa ' uspesno kreiran
+[GRESKA][01.11.2025 23:34] Slide ne moze imati decu!
+[OBAVESTENJE][01.11.2025 23:34] Slide 'zas ' uspesno kreiran
+[UPOZORENJE][02.11.2025 20:40] Naziv projekta ne sme biti prazan
+[GRESKA][02.11.2025 21:32] Morate selektovati projekat
+[GRESKA][02.11.2025 21:32] Morate selektovati roditeljski cvor
+[UPOZORENJE][02.11.2025 21:32] Naziv projekta ne sme biti prazan
+[GRESKA][03.11.2025 18:29] Morate selektovati projekat
+[UPOZORENJE][03.11.2025 18:29] Naziv projekta ne sme biti prazan
+[GRESKA][03.11.2025 18:29] Ne mozete obrisati Workspace
+[GRESKA][03.11.2025 18:36] Morate selektovati projekat
+[GRESKA][03.11.2025 18:56] Morate selektovati projekat
+[GRESKA][03.11.2025 18:56] Morate selektovati projekat
+[UPOZORENJE][03.11.2025 18:56] Naslov projekta ne sme biti prazan
+[UPOZORENJE][03.11.2025 18:56] Naslov projekta ne sme biti prazan
+[GRESKA][03.11.2025 18:57] Morate selektovati roditeljski cvor
+[UPOZORENJE][03.11.2025 18:57] Naslov projekta ne sme biti prazan
+[UPOZORENJE][03.11.2025 18:57] Ime autora ne sme biti prazno
+[GRESKA][03.11.2025 18:57] Morate selektovati projekat
+[UPOZORENJE][03.11.2025 18:58] Naziv projekta ne sme biti prazan
+[GRESKA][03.11.2025 18:59] Morate selektovati roditeljski cvor
+[OBAVESTENJE][03.11.2025 18:59] Projekat 'Naziv2 ' uspesno kreiran
+[GRESKA][03.11.2025 18:59] Morate selektovati roditeljski cvor
+[UPOZORENJE][03.11.2025 18:59] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][03.11.2025 18:59] Cvor 'Naziv2' obrisan
+[OBAVESTENJE][03.11.2025 19:00] Projekat 'Projekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 19:01] Cvor smo preimenovali iz 'Projekat' u '222'
+[GRESKA][03.11.2025 19:01] Morate selektovati projekat
+[OBAVESTENJE][03.11.2025 19:13] Projekat 'MojProjekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 19:13] Prezentacija 'PPX ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 19:13] Slide 'Slide1 ' uspesno kreiran
+[GRESKA][03.11.2025 19:14] Slide ne moze imati decu!
+[OBAVESTENJE][03.11.2025 19:14] Slide 'Slide2 ' uspesno kreiran
+[GRESKA][03.11.2025 19:14] Slide ne moze imati decu!
+[OBAVESTENJE][03.11.2025 19:14] Slide 'Slide3 ' uspesno kreiran
+[GRESKA][03.11.2025 19:15] Slide ne moze imati decu!
+[UPOZORENJE][03.11.2025 19:15] Naziv slajda ne moze biti prazan
+[OBAVESTENJE][03.11.2025 19:20] Projekat 'Projekat1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 19:20] Slide 'Slide1 ' uspesno kreiran
+[GRESKA][03.11.2025 19:20] Project mora imati bar jednu prezentaciju ili slide
+[GRESKA][03.11.2025 19:20] Project mora imati bar jednu prezentaciju ili slide
+[OBAVESTENJE][03.11.2025 19:21] Cvor 'Projekat1' obrisan
+[OBAVESTENJE][03.11.2025 19:21] Projekat 'Projekat1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 19:21] Prezentacija 'aaaaaaaaaa ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 19:22] Projekat 'aaaaaaaaaaaaaa ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 19:22] Cvor 'aaaaaaaaaaaaaa' obrisan
+[UPOZORENJE][03.11.2025 19:22] Naziv prezentacije ne moze biti prazan
+[OBAVESTENJE][03.11.2025 19:23] Slide 'bbbbbbbbbbbbbbbbbb ' uspesno kreiran
+[GRESKA][03.11.2025 19:23] Morate selektovati projekat
+[GRESKA][03.11.2025 19:26] Morate selektovati projekat
+[GRESKA][03.11.2025 19:26] Selektovani cvor nije projekat
+[OBAVESTENJE][03.11.2025 20:05] Projekat 'Projekat1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 20:06] Prezentacija 'Prez1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 20:06] Slide 'Slide1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 20:06] Slide 'Slide2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 20:07] Prezentacija 'Prez2 ' uspesno kreirana
+[GRESKA][03.11.2025 20:33] Ne mozete preimenovati Workspace
+[GRESKA][03.11.2025 20:33] Ne mozete preimenovati Workspace
+[UPOZORENJE][03.11.2025 20:33] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][03.11.2025 20:33] Projekat 'Naziv ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 20:33] Cvor smo preimenovali iz 'Naziv' u 'Nazivvvv'
+[GRESKA][03.11.2025 20:34] Projekat sa ovim imenom vec posotji
+[OBAVESTENJE][03.11.2025 20:34] Projekat 'AninProjekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 20:34] Slide 's1 ' uspesno kreiran
+[GRESKA][03.11.2025 20:34] Morate selektovati roditeljski cvor
+[OBAVESTENJE][03.11.2025 20:35] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:13] Projekat 'Project ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:13] Prezentacija 'Istorija ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 21:14] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:14] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:14] Slide 's2' premesten
+[OBAVESTENJE][03.11.2025 21:14] Slide 's2' premesten
+[OBAVESTENJE][03.11.2025 21:14] Slide 's1' premesten
+[OBAVESTENJE][03.11.2025 21:18] Projekat 'ProjekatIstorija ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:18] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 21:18] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:18] Cvor 'prezentacija' obrisan
+[OBAVESTENJE][03.11.2025 21:18] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:19] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:19] Slide 's2' premesten
+[OBAVESTENJE][03.11.2025 21:19] Slide 's1' premesten
+[UPOZORENJE][03.11.2025 21:21] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][03.11.2025 21:30] Projekat 'p ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:30] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:30] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:30] Slide 's2' premesten
+[GRESKA][03.11.2025 21:30] Morate selektovati roditeljski cvor
+[OBAVESTENJE][03.11.2025 21:30] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:30] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:30] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:31] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:31] Slide 's1' premesten
+[OBAVESTENJE][03.11.2025 21:31] Slide 's3' premesten
+[OBAVESTENJE][03.11.2025 21:31] Slide 's2' premesten
+[OBAVESTENJE][03.11.2025 21:39] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:39] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:39] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:39] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 21:39] Slide 's3' premesten
+[OBAVESTENJE][03.11.2025 21:39] Slide 's2' premesten
+[OBAVESTENJE][03.11.2025 21:39] Slide 's1' premesten
+[OBAVESTENJE][03.11.2025 21:39] Slide 's1' premesten
+[OBAVESTENJE][03.11.2025 21:39] Slide 's1' premesten
+[OBAVESTENJE][03.11.2025 21:39] Slide 's3' premesten
+[OBAVESTENJE][03.11.2025 21:39] Slide 's3' premesten
+[OBAVESTENJE][03.11.2025 22:35] Projekat 'Projekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 22:36] Prezentacija 'Prez1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:36] Prezentacija 'Prez2 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:36] Prezentacija 'Prez3 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:38] Projekat 'Project2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 22:38] Prezentacija 'a1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:38] Prezentacija 'a2 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:39] Projekat 'p3 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 22:39] Cvor 'p3' obrisan
+[GRESKA][03.11.2025 22:39] Projekat sa ovim imenom vec posotji
+[OBAVESTENJE][03.11.2025 22:40] Projekat 'Projekat3 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 22:40] Prezentacija 'v1 ' uspesno kreirana
+[GRESKA][03.11.2025 22:49] Morate selektovati roditeljski cvor
+[OBAVESTENJE][03.11.2025 22:50] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 22:50] Prezentacija 'a1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:50] Prezentacija 'a2 ' uspesno kreirana
+[GRESKA][03.11.2025 22:50] Slide sa ovim imenom vec postoji
+[OBAVESTENJE][03.11.2025 22:50] Slide 'aaaa ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 22:50] Slide 'aaaaaaaaaaa ' uspesno kreiran
+[GRESKA][03.11.2025 22:50] Slide sa ovim imenom vec postoji
+[OBAVESTENJE][03.11.2025 22:50] Slide 'aaaaaaaaaaa' premesten
+[OBAVESTENJE][03.11.2025 22:52] Projekat 'Project ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 22:53] Prezentacija 'Presentation1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:53] Prezentacija 'Presentation2 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 22:53] Prezentacija 'Presentation3 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:03] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:03] Prezentacija 'a1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:03] Prezentacija 'a2 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:03] Prezentacija 'a3 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:04] Cvor 'a1' obrisan
+[OBAVESTENJE][03.11.2025 23:18] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:18] Prezentacija 'prez1 ' uspesno kreirana
+[GRESKA][03.11.2025 23:18] Project mora imati bar jednu prezentaciju ili slide
+[OBAVESTENJE][03.11.2025 23:18] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:18] Cvor 'prez2' obrisan
+[OBAVESTENJE][03.11.2025 23:19] Projekat 'p1 ' uspesno kreiran
+[UPOZORENJE][03.11.2025 23:19] Naziv projekta ne sme biti prazan
+[UPOZORENJE][03.11.2025 23:19] Naziv prezentacije ne moze biti prazan
+[OBAVESTENJE][03.11.2025 23:19] Prezentacija 'aaa ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:20] Prezentacija 'bbbbbb ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:20] Prezentacija 'ccccc ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:20] Cvor 'aaa' obrisan
+[OBAVESTENJE][03.11.2025 23:20] Cvor smo preimenovali iz 'ccccc' u 'aaa'
+[OBAVESTENJE][03.11.2025 23:21] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:21] Prezentacija 'aaaa ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:21] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:22] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:22] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:22] Cvor 's2' obrisan
+[OBAVESTENJE][03.11.2025 23:22] Naslov promenjen u ana voli milovana
+[OBAVESTENJE][03.11.2025 23:22] Cvor smo preimenovali iz 'p1' u 'ana voli milovana'
+[OBAVESTENJE][03.11.2025 23:22] Cvor smo preimenovali iz 'aaaa' u 'novo ime'
+[OBAVESTENJE][03.11.2025 23:28] Projekat 'project ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:28] Prezentacija 'a1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:28] Prezentacija 'a2 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:29] Prezentacija 'a3 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:29] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:29] Prezentacija 's1 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:29] Prezentacija 's2 ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:30] Cvor smo preimenovali iz 's1' u 'rename'
+[OBAVESTENJE][03.11.2025 23:35] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:35] Prezentacija 'aaa ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:42] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:43] Prezentacija 'a ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:43] Prezentacija 'b ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:43] Prezentacija 'd ' uspesno kreirana
+[OBAVESTENJE][03.11.2025 23:47] Projekat 'aaaa ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:48] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:48] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:48] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][03.11.2025 23:48] Slide 's2' premesten
+[OBAVESTENJE][03.11.2025 23:48] Slide 's3' premesten
+[OBAVESTENJE][03.11.2025 23:48] Slide 's1' premesten
+[OBAVESTENJE][03.11.2025 23:48] Slide 's3' premesten
+[OBAVESTENJE][03.11.2025 23:48] Slide 's2' premesten
+[OBAVESTENJE][03.11.2025 23:48] Slide 's1' premesten
+[OBAVESTENJE][04.11.2025 00:40] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 00:40] Prezentacija 'a1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:40] Prezentacija 'a2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:40] Prezentacija 'a5 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:40] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 00:40] Slide 's ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 00:41] Cvor smo preimenovali iz 'a2' u '22'
+[OBAVESTENJE][04.11.2025 00:46] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 00:46] Prezentacija 'a1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:46] Prezentacija 'a2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:46] Prezentacija 'a3 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:46] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 00:47] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 00:54] Projekat 'a ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 00:54] Prezentacija 'aaa ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:54] Prezentacija 'bbbb ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 00:54] Prezentacija 'ccccc ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:02] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:02] Prezentacija 'p1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:02] Prezentacija 'p2 ' uspesno kreirana
+[GRESKA][04.11.2025 01:03] Morate selektovati cvor
+[GRESKA][04.11.2025 01:03] Morate selektovati cvor
+[OBAVESTENJE][04.11.2025 01:14] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:14] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:14] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:14] Cvor smo preimenovali iz 'prez1' u 'mojaaa'
+[GRESKA][04.11.2025 01:23] Morate selektovati roditeljski cvor
+[OBAVESTENJE][04.11.2025 01:23] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:23] Prezentacija 'aaa ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:23] Prezentacija 'bbb ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:23] Prezentacija 'cccccc ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:23] Slide 'a1 ' uspesno kreiran
+[GRESKA][04.11.2025 01:24] Morate selektovati roditeljski cvor
+[OBAVESTENJE][04.11.2025 01:24] Slide 'a2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:24] Slide 'a3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:24] Cvor smo preimenovali iz 'aaa' u 'anaaa'
+[OBAVESTENJE][04.11.2025 01:24] Cvor smo preimenovali iz 'cccccc' u 'c'
+[OBAVESTENJE][04.11.2025 01:24] Cvor 'anaaa' obrisan
+[OBAVESTENJE][04.11.2025 01:24] Slide 'a3' premesten
+[OBAVESTENJE][04.11.2025 01:31] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:31] Slide '1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:32] Slide '2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:32] Slide '3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:32] Slide '2' premesten
+[GRESKA][04.11.2025 01:32] Slide ne moze imati decu!
+[OBAVESTENJE][04.11.2025 01:32] Slide '4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:32] Slide '3' premesten
+[GRESKA][04.11.2025 01:39] Morate selektovati roditeljski cvor
+[OBAVESTENJE][04.11.2025 01:39] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:40] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:40] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:40] Slide 'slajd1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:40] Slide 'slajd2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:40] Slide 'slajd3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:40] Slide 'slajd3' premesten
+[GRESKA][04.11.2025 01:51] Morate selektovati roditeljski cvor
+[OBAVESTENJE][04.11.2025 01:51] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:51] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:52] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 01:52] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:52] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:52] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:52] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 01:53] Cvor smo preimenovali iz 's2' u '2'
+[OBAVESTENJE][04.11.2025 02:05] Projekat 'Istorija ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:06] Prezentacija 'prezentacija1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 02:06] Prezentacija 'prezentacija2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 02:06] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:06] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:06] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:06] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:06] Slide 's5 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:07] Slide 's6 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:07] Slide 's7 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 02:07] Cvor 's6' obrisan
+[OBAVESTENJE][04.11.2025 02:07] Cvor 's1' obrisan
+[GRESKA][04.11.2025 02:08] Morate selektovati projekat
+[OBAVESTENJE][04.11.2025 02:08] Naslov promenjen u Project
+[OBAVESTENJE][04.11.2025 02:08] Autor promenjen u: Ina
+[OBAVESTENJE][04.11.2025 02:09] Cvor smo preimenovali iz 'prezentacija1' u 'anaaaaa'
+[OBAVESTENJE][04.11.2025 02:09] Cvor smo preimenovali iz 'Istorija' u 'INA'
+[OBAVESTENJE][04.11.2025 02:09] Cvor 'anaaaaa' obrisan
+[OBAVESTENJE][04.11.2025 12:22] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:23] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 12:23] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:23] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:23] Cvor 's2' obrisan
+[OBAVESTENJE][04.11.2025 12:23] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:23] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:23] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:24] Slide 's5 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:24] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 12:24] Slide 's11 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:24] Cvor smo preimenovali iz 's1' u 's'
+[OBAVESTENJE][04.11.2025 12:31] Projekat 'proj ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:31] Prezentacija 'kkk ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 12:32] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:32] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:32] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:32] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:56] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:57] Prezentacija 'prez1 ' uspesno kreirana
+[UPOZORENJE][04.11.2025 12:57] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][04.11.2025 12:57] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 12:57] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:57] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:57] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:57] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 12:57] Slide 'slajdUProjektu ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:16] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:16] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 13:16] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:16] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:17] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:17] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:17] Slide 's5 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:17] Cvor 's3' obrisan
+[OBAVESTENJE][04.11.2025 13:17] Cvor smo preimenovali iz 's5' u 's6'
+[OBAVESTENJE][04.11.2025 13:18] Cvor 's1' obrisan
+[OBAVESTENJE][04.11.2025 13:33] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:33] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 13:34] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:34] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:34] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:34] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:34] Slide 's5 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:34] Cvor 's5' obrisan
+[OBAVESTENJE][04.11.2025 13:34] Cvor smo preimenovali iz 's1' u 'slajdddd'
+[GRESKA][04.11.2025 13:35] Morate selektovati projekat
+[OBAVESTENJE][04.11.2025 13:35] Naslov promenjen u NASLOV
+[GRESKA][04.11.2025 13:35] Selektovani cvor nije projekat
+[OBAVESTENJE][04.11.2025 13:35] Autor promenjen u: Djura
+[GRESKA][04.11.2025 13:35] Morate selektovati projekat
+[OBAVESTENJE][04.11.2025 13:35] Naslov promenjen u NASLOV
+[OBAVESTENJE][04.11.2025 13:43] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:43] Slide 'sss ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:43] Prezentacija 'prezic ' uspesno kreirana
+[OBAVESTENJE][04.11.2025 13:43] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:44] Slide 's2 ' uspesno kreiran
+[GRESKA][04.11.2025 13:44] Morate selektovati roditeljski cvor
+[OBAVESTENJE][04.11.2025 13:44] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:44] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:44] Slide 's5 ' uspesno kreiran
+[OBAVESTENJE][04.11.2025 13:45] Cvor 's5' obrisan
+[GRESKA][04.11.2025 13:45] Cvor sa ovim imenom vec postoji
+[OBAVESTENJE][04.11.2025 13:45] Cvor smo preimenovali iz 's3' u 's5'
+[OBAVESTENJE][04.11.2025 13:45] Slide 'aaa ' uspesno kreiran
+[GRESKA][04.11.2025 14:11] Morate selektovati cvor
+[GRESKA][04.11.2025 14:11] Ne mozete preimenovati Workspace
+[GRESKA][04.11.2025 22:47] Ne mozete obrisati Workspace
+[OBAVESTENJE][05.11.2025 00:25] Projekat 'p ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:26] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 00:26] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:26] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:26] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:51] Projekat 'proj1 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:51] Prezentacija 'p1 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 00:51] Projekat 'proj2 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:51] Prezentacija 's2 ' uspesno kreirana
+[UPOZORENJE][05.11.2025 00:53] Naziv slajda ne moze biti prazan
+[OBAVESTENJE][05.11.2025 00:55] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:55] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:55] Prezentacija 'p2 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 00:55] Projekat 'projekat2 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:55] Prezentacija 's2 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 00:57] Projekat 'a ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:57] Prezentacija 'a ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 00:57] Prezentacija 'aaaa ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 00:58] Projekat 'proj ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 00:58] Prezentacija 'prezi1 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 00:58] Prezentacija 'prezi2 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:00] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 01:00] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:01] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:04] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 01:04] Prezentacija 'prezentacija1 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:05] Prezentacija 'prezentacija2 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:09] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 01:09] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:09] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:09] Projekat 'projekat2 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 01:10] Prezentacija 's1 ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 01:10] Projekat 'projekat3 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 01:10] Projekat 'projekat4 ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 01:10] Prezentacija 'ana ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 10:58] Projekat 'nnn ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 10:58] Prezentacija 'b ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 10:58] Slide ',m ' uspesno kreiran
+[GRESKA][05.11.2025 10:59] Morate selektovati roditeljski cvor
+[OBAVESTENJE][05.11.2025 10:59] Slide 'bh ' uspesno kreiran
+[GRESKA][05.11.2025 10:59] Slide ne moze imati decu!
+[OBAVESTENJE][05.11.2025 10:59] Slide 'jio ' uspesno kreiran
+[GRESKA][05.11.2025 10:59] Morate selektovati projekat
+[OBAVESTENJE][05.11.2025 11:00] Projekat 'z ' uspesno kreiran
+[UPOZORENJE][05.11.2025 11:00] Naziv slajda ne moze biti prazan
+[OBAVESTENJE][05.11.2025 11:00] Prezentacija 'zzx ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 11:00] Prezentacija 'hhuh ' uspesno kreirana
+[UPOZORENJE][05.11.2025 11:01] Ime autora ne sme biti prazno
+[OBAVESTENJE][05.11.2025 11:01] Projekat 'dsv ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 11:01] Prezentacija 'dsec ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 11:06] Projekat 'bvhhbhb ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 11:06] Prezentacija 'jhkjnn ' uspesno kreirana
+[OBAVESTENJE][05.11.2025 11:06] Slide 'jnj ' uspesno kreiran
+[GRESKA][05.11.2025 11:06] Slide ne moze imati decu!
+[OBAVESTENJE][05.11.2025 11:06] Slide 'hbbh ' uspesno kreiran
+[OBAVESTENJE][05.11.2025 11:07] Slide 'bbn ' uspesno kreiran
+[GRESKA][05.11.2025 11:09] Morate selektovati cvor
+[OBAVESTENJE][07.11.2025 14:35] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 14:35] Naslov promenjen u aaaa
+[GRESKA][07.11.2025 13:47] Morate selektovati projekat
+[GRESKA][07.11.2025 13:51] Morate selektovati projekat
+[OBAVESTENJE][07.11.2025 14:06] Projekat 'projekat1 ' uspesno kreiran
+[UPOZORENJE][07.11.2025 14:06] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][07.11.2025 14:21] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 14:21] Prezentacija 'prezentacija1 ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 14:21] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 14:22] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 14:22] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 14:23] Naslov promenjen u p1
+[GRESKA][07.11.2025 14:23] Morate selektovati projekat
+[OBAVESTENJE][07.11.2025 14:24] Cvor smo preimenovali iz 'prezentacija1' u 'ppx'
+[GRESKA][07.11.2025 14:24] Morate selektovati projekat
+[OBAVESTENJE][07.11.2025 14:24] Cvor smo preimenovali iz 's1' u 'ss'
+[OBAVESTENJE][07.11.2025 14:24] Cvor 'ss' obrisan
+[GRESKA][07.11.2025 14:25] Project mora imati bar jednu prezentaciju ili slide
+[OBAVESTENJE][07.11.2025 14:25] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 14:25] Cvor 'ppx' obrisan
+[GRESKA][07.11.2025 14:25] Project mora imati bar jednu prezentaciju ili slide
+[OBAVESTENJE][07.11.2025 14:26] Autor promenjen u: aaa
+[OBAVESTENJE][07.11.2025 14:26] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 14:38] Projekat 'dfsdf ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 14:38] Naslov promenjen u aaaaa
+[OBAVESTENJE][07.11.2025 18:50] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 18:50] Prezentacija 'prezentacija1 ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 18:50] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 18:50] Slide 's2 ' uspesno kreiran
+[GRESKA][07.11.2025 18:50] Morate selektovati projekat
+[OBAVESTENJE][07.11.2025 18:50] Naslov promenjen u project
+[OBAVESTENJE][07.11.2025 18:50] Cvor 'project' obrisan
+[GRESKA][07.11.2025 18:51] Ne mozete obrisati Workspace
+[UPOZORENJE][07.11.2025 18:51] Ime autora ne sme biti prazno
+[OBAVESTENJE][07.11.2025 18:51] Projekat 'p ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 18:51] Prezentacija 'pp ' uspesno kreirana
+[GRESKA][07.11.2025 19:34] Morate selektovati roditeljski cvor
+[UPOZORENJE][07.11.2025 20:05] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][07.11.2025 20:22] Projekat 'p ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 20:23] Prezentacija 'ppp ' uspesno kreirana
+[GRESKA][07.11.2025 22:16] Ne mozete preimenovati Workspace
+[OBAVESTENJE][07.11.2025 22:16] Projekat 'AAA ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 22:17] Cvor smo preimenovali iz 'AAA' u 're'
+[OBAVESTENJE][07.11.2025 22:17] Naslov promenjen u aaaaa
+[OBAVESTENJE][07.11.2025 22:17] Prezentacija 'a ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:24] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:24] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:24] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:24] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:24] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:24] Naslov promenjen u anja
+[GRESKA][07.11.2025 23:24] Morate selektovati projekat
+[OBAVESTENJE][07.11.2025 23:25] Cvor smo preimenovali iz 'prezentacija' u 'ppx'
+[OBAVESTENJE][07.11.2025 23:27] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:27] Prezentacija 'aaa ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:27] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:27] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:27] Cvor smo preimenovali iz 'aaa' u 'ppx'
+[OBAVESTENJE][07.11.2025 23:27] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:28] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:28] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:29] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:29] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:29] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:30] Slide 's5 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:32] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:32] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:32] Slide 's1 ' uspesno kreiran
+[GRESKA][07.11.2025 23:32] Projekat sa ovim imenom vec posotji
+[OBAVESTENJE][07.11.2025 23:32] Projekat 'project ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:32] Prezentacija 'sss ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:32] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:33] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:33] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:33] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:36] Projekat 'proj ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:36] Prezentacija 'ppx ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:36] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:36] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:36] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:36] Slide 's4 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:36] Slide 's5 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:38] Projekat 'proj ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:38] Prezentacija 'pres ' uspesno kreirana
+[OBAVESTENJE][07.11.2025 23:38] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:38] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:38] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][07.11.2025 23:38] Slide 's4 ' uspesno kreiran
+[GRESKA][08.11.2025 00:59] Ne mozete obrisati Workspace
+[OBAVESTENJE][08.11.2025 00:59] Projekat 'projekat ' uspesno kreiran
+[GRESKA][08.11.2025 01:00] Projekat sa ovim imenom vec posotji
+[UPOZORENJE][08.11.2025 01:00] Ime autora ne sme biti prazno
+[OBAVESTENJE][08.11.2025 01:00] Projekat 'projekat2 ' uspesno kreiran
+[OBAVESTENJE][08.11.2025 01:00] Naslov promenjen u projekat1
+[OBAVESTENJE][08.11.2025 01:00] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][08.11.2025 01:00] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][08.11.2025 01:01] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][08.11.2025 01:01] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][08.11.2025 01:01] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][08.11.2025 01:01] Cvor 's1' obrisan
+[OBAVESTENJE][08.11.2025 01:01] Cvor smo preimenovali iz 'prez2' u 'prez22'
+[OBAVESTENJE][08.11.2025 01:01] Autor promenjen u: marija
+[OBAVESTENJE][08.11.2025 01:01] Cvor 'projekat2' obrisan
+[OBAVESTENJE][08.11.2025 01:02] Cvor 's2' obrisan
+[OBAVESTENJE][08.11.2025 01:02] Cvor 'prez1' obrisan
+[UPOZORENJE][11.11.2025 11:52] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][11.11.2025 12:20] Projekat 'mmm ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 17:39] Projekat 'moj projekat ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 17:39] Prezentacija '1 ' uspesno kreirana
+[OBAVESTENJE][11.11.2025 17:39] Projekat '2 projekat ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 17:39] Prezentacija '2 ' uspesno kreirana
+[OBAVESTENJE][11.11.2025 17:40] Slide 'prvi ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 17:40] Slide 'drugi ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 17:40] Slide '333 ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 17:40] Slide '55 ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 17:40] Slide '7 ' uspesno kreiran
+[GRESKA][11.11.2025 17:41] Morate selektovati projekat
+[OBAVESTENJE][11.11.2025 17:41] Naslov promenjen u kkk
+[OBAVESTENJE][11.11.2025 17:41] Cvor '55' obrisan
+[GRESKA][11.11.2025 17:42] Morate selektovati roditeljski cvor
+[OBAVESTENJE][11.11.2025 17:42] Prezentacija 'bbb ' uspesno kreirana
+[OBAVESTENJE][11.11.2025 17:43] Slide 'nnn ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 18:01] Projekat 'mojprojekat ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 18:01] Prezentacija 'prvaPrez ' uspesno kreirana
+[OBAVESTENJE][11.11.2025 18:01] Prezentacija 'drugaPrez ' uspesno kreirana
+[OBAVESTENJE][11.11.2025 18:02] Slide 'jedan ' uspesno kreiran
+[GRESKA][11.11.2025 18:02] Slide ne moze imati decu!
+[OBAVESTENJE][11.11.2025 18:02] Slide 'dva ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 18:02] Slide 'tri ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 18:02] Projekat 'projekat2 ' uspesno kreiran
+[OBAVESTENJE][11.11.2025 18:03] Cvor 'projekat2' obrisan
+[OBAVESTENJE][11.11.2025 18:03] Cvor smo preimenovali iz 'prvaPrez' u 'kkkk'
+[GRESKA][11.11.2025 18:04] Selektovani cvor nije projekat
+[OBAVESTENJE][11.11.2025 18:04] Autor promenjen u: ti
+[OBAVESTENJE][11.11.2025 18:04] Cvor 'mojprojekat' obrisan
+[UPOZORENJE][11.11.2025 18:04] Naziv projekta ne sme biti prazan
+[GRESKA][11.11.2025 18:04] Ne mozete obrisati Workspace
+[OBAVESTENJE][12.11.2025 18:13] Projekat 'p ' uspesno kreiran
+[UPOZORENJE][12.11.2025 19:26] Naziv projekta ne sme biti prazan
+[OBAVESTENJE][12.11.2025 19:26] Projekat 'mm ' uspesno kreiran
+[GRESKA][12.11.2025 20:49] Morate selektovati roditeljski cvor
+[OBAVESTENJE][12.11.2025 20:50] Projekat 'p ' uspesno kreiran
+[OBAVESTENJE][12.11.2025 20:50] Prezentacija 'ppp ' uspesno kreirana
+[OBAVESTENJE][12.11.2025 20:50] Prezentacija 'pooo ' uspesno kreirana
+[OBAVESTENJE][12.11.2025 20:51] Slide 'a ' uspesno kreiran
+[GRESKA][12.11.2025 20:51] Slide ne moze imati decu!
+[OBAVESTENJE][12.11.2025 20:51] Cvor 'p' obrisan
+[OBAVESTENJE][12.11.2025 20:51] Projekat 'pp ' uspesno kreiran
+[OBAVESTENJE][12.11.2025 20:52] Slide 's1 ' uspesno kreiran
+[UPOZORENJE][12.11.2025 20:52] Naziv prezentacije ne moze biti prazan
+[UPOZORENJE][15.11.2025 12:17] Ime autora ne sme biti prazno
+[OBAVESTENJE][15.11.2025 12:17] Projekat 'mm ' uspesno kreiran
+[OBAVESTENJE][15.11.2025 12:17] Prezentacija 'mm ' uspesno kreirana
+[GRESKA][04.12.2025 13:49] Morate selektovati roditeljski cvor
+[GRESKA][04.12.2025 13:49] Morate selektovati roditeljski cvor
+[OBAVESTENJE][04.12.2025 13:49] Projekat 'j ' uspesno kreiran
+[OBAVESTENJE][04.12.2025 13:49] Prezentacija 'm ' uspesno kreirana
+[OBAVESTENJE][04.12.2025 13:49] Slide 'n ' uspesno kreiran
+[OBAVESTENJE][04.12.2025 15:08] Projekat 'mm ' uspesno kreiran
+[OBAVESTENJE][04.12.2025 15:08] Slide 'm ' uspesno kreiran
+[GRESKA][04.12.2025 15:08] Prezentacija sa ovim imenom vec posotji
+[OBAVESTENJE][04.12.2025 15:08] Prezentacija 'b ' uspesno kreirana
+[OBAVESTENJE][04.12.2025 15:09] Slide 'nnn] ' uspesno kreiran
+[OBAVESTENJE][04.12.2025 15:35] Projekat 'm ' uspesno kreiran
+[OBAVESTENJE][04.12.2025 15:35] Prezentacija 'j ' uspesno kreirana
+[OBAVESTENJE][04.12.2025 15:35] Slide 'n ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:04] Projekat 'aa ' uspesno kreiran
+[GRESKA][05.12.2025 22:04] Morate selektovati roditeljski cvor
+[OBAVESTENJE][05.12.2025 22:04] Prezentacija 'ss ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:04] Slide 'ss ' uspesno kreiran
+[GRESKA][05.12.2025 22:04] Slide ne moze imati decu!
+[OBAVESTENJE][05.12.2025 22:04] Slide 'ssss ' uspesno kreiran
+[GRESKA][05.12.2025 22:04] Slide ne moze imati decu!
+[GRESKA][05.12.2025 22:04] Morate selektovati projekat
+[UPOZORENJE][05.12.2025 22:05] Naziv slajda ne moze biti prazan
+[OBAVESTENJE][05.12.2025 22:06] Projekat 's ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:07] Projekat 'zz ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:07] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:08] Slide 'slajd1 ' uspesno kreiran
+[GRESKA][05.12.2025 22:08] Slide ne moze imati decu!
+[OBAVESTENJE][05.12.2025 22:08] Slide 'slajd2 ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:12] Projekat 'm ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:12] Prezentacija 'm, ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:12] Slide 'z ' uspesno kreiran
+[GRESKA][05.12.2025 22:13] Slide sa ovim imenom vec postoji
+[OBAVESTENJE][05.12.2025 22:13] Slide 'a ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:14] Cvor 'z' obrisan
+[GRESKA][05.12.2025 22:14] Slide ne moze imati decu!
+[OBAVESTENJE][05.12.2025 22:14] Cvor 'a' obrisan
+[OBAVESTENJE][05.12.2025 22:14] Prezentacija 'm ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:14] Slide 'aass ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:22] Projekat 'ss ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:22] Prezentacija 'sss ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:22] Slide 's ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:22] Slide 'ss ' uspesno kreiran
+[UPOZORENJE][05.12.2025 22:29] Ime autora ne sme biti prazno
+[OBAVESTENJE][05.12.2025 22:29] Projekat 'm ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:29] Prezentacija 'n ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:29] Slide 'mm ' uspesno kreiran
+[GRESKA][05.12.2025 22:29] Slide ne moze imati decu!
+[OBAVESTENJE][05.12.2025 22:32] Projekat 'nnnn ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:32] Prezentacija '9 ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:32] Slide 'mmm ' uspesno kreiran
+[UPOZORENJE][05.12.2025 22:34] Ime autora ne sme biti prazno
+[OBAVESTENJE][05.12.2025 22:34] Projekat '1 ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:34] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:34] Slide 'aaa ' uspesno kreiran
+[GRESKA][05.12.2025 22:35] Slide ne moze imati decu!
+[GRESKA][05.12.2025 22:35] Slide sa ovim imenom vec postoji
+[GRESKA][05.12.2025 22:35] Project mora imati bar jednu prezentaciju ili slide
+[OBAVESTENJE][05.12.2025 22:35] Slide 'a ' uspesno kreiran
+[GRESKA][05.12.2025 22:35] Niste selektovali cvor za brisanje
+[OBAVESTENJE][05.12.2025 22:35] Projekat 'z ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:36] Prezentacija 'zzzz ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:36] Slide 'zzz ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:36] Slide 'z ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:42] Projekat 'aaa ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:42] Prezentacija 'aa ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:42] Slide 'q ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:44] Projekat 'nn ' uspesno kreiran
+[UPOZORENJE][05.12.2025 22:44] Naziv slajda ne moze biti prazan
+[OBAVESTENJE][05.12.2025 22:45] Projekat 'qqqq ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:45] Prezentacija 'q ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:45] Slide 'km ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:46] Projekat 'nnnnnn] ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:47] Prezentacija 'zz ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:47] Slide 'zz`` ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:48] Projekat 'lll ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:48] Prezentacija 'm ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:48] Prezentacija 'n ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:48] Slide 'mmm ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:52] Projekat 'aa ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:52] Prezentacija 'sssas ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:54] Slide ',,,,, ' uspesno kreiran
+[GRESKA][05.12.2025 22:56] Morate selektovati roditeljski cvor
+[OBAVESTENJE][05.12.2025 22:56] Projekat 'sss\ ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:57] Prezentacija 'asa ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:57] Slide 'mx ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:58] Projekat 'mmm ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 22:58] Prezentacija 'bb ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:58] Prezentacija 'mmmmm ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 22:58] Slide 'mmmmm ' uspesno kreiran
+[GRESKA][05.12.2025 23:03] Morate selektovati roditeljski cvor
+[OBAVESTENJE][05.12.2025 23:03] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][05.12.2025 23:03] Prezentacija '1 ' uspesno kreirana
+[OBAVESTENJE][05.12.2025 23:04] Slide '2 ' uspesno kreiran
+[OBAVESTENJE][06.12.2025 11:49] Projekat 'mmm ' uspesno kreiran
+[OBAVESTENJE][06.12.2025 11:49] Prezentacija 'nnn ' uspesno kreirana
+[OBAVESTENJE][06.12.2025 11:49] Slide '1 ' uspesno kreiran
+[GRESKA][06.12.2025 11:50] Morate selektovati roditeljski cvor
+[OBAVESTENJE][06.12.2025 11:50] Slide '2 ' uspesno kreiran
+[OBAVESTENJE][07.12.2025 15:41] Projekat 'nm ' uspesno kreiran
+[OBAVESTENJE][07.12.2025 15:41] Prezentacija 'm ' uspesno kreirana
+[OBAVESTENJE][07.12.2025 17:49] Projekat 'nn ' uspesno kreiran
+[OBAVESTENJE][07.12.2025 17:49] Prezentacija 'nn ' uspesno kreirana
+[OBAVESTENJE][07.12.2025 17:49] Prezentacija 'mmm ' uspesno kreirana
+[OBAVESTENJE][07.12.2025 17:49] Slide 'mmmm ' uspesno kreiran
+[OBAVESTENJE][07.12.2025 17:49] Tekst element dodat
+[GRESKA][08.12.2025 11:38] Morate selektovati projekat
+[OBAVESTENJE][08.12.2025 12:14] Projekat 'nn ' uspesno kreiran
+[GRESKA][08.12.2025 12:14] Nema otvorene prezentacije
+[OBAVESTENJE][08.12.2025 12:14] Slika 'Screenshot 2025-12-03 at 13.25.10.png' uspesno ucitana
+[OBAVESTENJE][08.12.2025 12:14] Prezentacija 'nnnnn ' uspesno kreirana
+[OBAVESTENJE][08.12.2025 12:14] Slide 'b ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:14] Slika 'images.jpeg' uspesno ucitana
+[OBAVESTENJE][08.12.2025 12:15] Slika 'images.jpeg' dodata na slajd
+[OBAVESTENJE][08.12.2025 12:15] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 12:15] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 12:15] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 12:16] Elementi rotirani udesno!
+[OBAVESTENJE][08.12.2025 12:16] Slika 'images.jpeg' dodata na slajd
+[OBAVESTENJE][08.12.2025 12:16] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 12:16] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 12:16] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 12:16] Elementi rotirani udesno!
+[OBAVESTENJE][08.12.2025 12:16] Tekst element dodat
+[OBAVESTENJE][08.12.2025 12:17] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:17] Slika 'images.jpeg' dodata!
+[OBAVESTENJE][08.12.2025 12:17] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:17] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:19] Projekat 'mmm ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:19] Prezentacija 'n ' uspesno kreirana
+[OBAVESTENJE][08.12.2025 12:20] Slide 'v ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:20] Slika 'images.jpeg' uspesno ucitana
+[OBAVESTENJE][08.12.2025 12:20] Slika 'images.jpeg' dodata na slajd
+[GRESKA][08.12.2025 12:38] Morate selektovati roditeljski cvor
+[OBAVESTENJE][08.12.2025 12:38] Projekat 'x ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:38] Prezentacija 'a ' uspesno kreirana
+[OBAVESTENJE][08.12.2025 12:39] Slide 'q ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:39] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:39] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:39] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:39] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:39] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:40] Projekat 'saa ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:40] Prezentacija 'aaq ' uspesno kreirana
+[OBAVESTENJE][08.12.2025 12:40] Slide 'e ' uspesno kreiran
+[UPOZORENJE][08.12.2025 12:41] Nema ucitanih slika, prvo ucitajte sliku
+[OBAVESTENJE][08.12.2025 12:41] Slika 'images.jpeg' uspesno ucitana
+[OBAVESTENJE][08.12.2025 12:41] Slika 'images.jpeg' dodata na slajd
+[GRESKA][08.12.2025 12:57] Morate selektovati roditeljski cvor
+[OBAVESTENJE][08.12.2025 12:57] Projekat 's ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:58] Prezentacija 'sfff ' uspesno kreirana
+[OBAVESTENJE][08.12.2025 12:58] Slide '1 ' uspesno kreiran
+[OBAVESTENJE][08.12.2025 12:58] Tekst element dodat
+[UPOZORENJE][08.12.2025 12:58] Nema ucitanih slika, prvo ucitajte sliku
+[OBAVESTENJE][08.12.2025 12:59] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:59] Logo element dodat
+[OBAVESTENJE][08.12.2025 12:59] Logo element dodat
+[OBAVESTENJE][08.12.2025 13:01] Logo element dodat
+[OBAVESTENJE][08.12.2025 13:01] Logo element dodat
+[OBAVESTENJE][08.12.2025 13:01] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani udesno!
+[OBAVESTENJE][08.12.2025 13:02] Elementi rotirani udesno!
+[OBAVESTENJE][08.12.2025 13:03] Elementi rotirani udesno!
+[OBAVESTENJE][08.12.2025 13:04] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:04] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:04] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:04] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:04] Elementi rotirani ulevo
+[OBAVESTENJE][08.12.2025 13:04] Slika 'images.jpeg' uspesno ucitana
+[OBAVESTENJE][08.12.2025 13:04] Slika 'images.jpeg' dodata na slajd
+[OBAVESTENJE][11.12.2025 01:06] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 01:06] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][11.12.2025 01:06] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 01:06] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 01:07] Elementi rotirani ulevo
+[OBAVESTENJE][11.12.2025 01:10] Elementi rotirani udesno!
+[OBAVESTENJE][11.12.2025 01:10] Elementi rotirani udesno!
+[OBAVESTENJE][11.12.2025 12:21] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:21] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][11.12.2025 12:21] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:21] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:22] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:22] Tekst element dodat
+[UPOZORENJE][11.12.2025 12:22] Nema ucitanih slika, prvo ucitajte sliku
+[OBAVESTENJE][11.12.2025 12:23] Slika 'rename.png' uspesno ucitana
+[OBAVESTENJE][11.12.2025 12:23] Slika 'rename.png' dodata na slajd
+[OBAVESTENJE][11.12.2025 12:23] Logo element dodat
+[OBAVESTENJE][11.12.2025 12:24] Elementi rotirani udesno!
+[OBAVESTENJE][11.12.2025 12:33] Projekat 'p1 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:33] Prezentacija 'pptx1 ' uspesno kreirana
+[OBAVESTENJE][11.12.2025 12:33] Prezentacija 'pptx2 ' uspesno kreirana
+[OBAVESTENJE][11.12.2025 12:34] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:34] Slide 's2 ' uspesno kreiran
+[UPOZORENJE][11.12.2025 12:34] Ime autora ne sme biti prazno
+[OBAVESTENJE][11.12.2025 12:34] Projekat 'p2 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:34] Prezentacija 'pptx3 ' uspesno kreirana
+[OBAVESTENJE][11.12.2025 12:34] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][11.12.2025 12:35] Logo element dodat
+[OBAVESTENJE][11.12.2025 12:37] Elementi rotirani udesno!
+[OBAVESTENJE][12.12.2025 15:18] Projekat 'projekat1 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:19] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][12.12.2025 15:19] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:19] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:19] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:19] Prezentacija 'prez2 ' uspesno kreirana
+[OBAVESTENJE][12.12.2025 15:19] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:19] Projekat 'projekat2 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:19] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][12.12.2025 15:20] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:20] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 15:20] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 22:02] Projekat 'p ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 22:02] Slide 'slajd ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 22:02] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][12.12.2025 22:03] Cvor 'slajd' obrisan
+[OBAVESTENJE][12.12.2025 22:03] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][12.12.2025 22:03] Tekst element dodat
+[OBAVESTENJE][12.12.2025 22:04] Logo element dodat
+[OBAVESTENJE][12.12.2025 22:04] Tekst element dodat
+[OBAVESTENJE][12.12.2025 22:06] Elementi rotirani ulevo
+[OBAVESTENJE][12.12.2025 22:07] Logo element dodat
+[OBAVESTENJE][12.12.2025 22:07] Logo element dodat
+[OBAVESTENJE][12.12.2025 22:07] Logo element dodat
+[OBAVESTENJE][12.12.2025 22:08] Tekst element dodat
+[OBAVESTENJE][13.12.2025 19:50] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 19:51] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 19:51] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 19:51] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 19:51] Logo element dodat
+[OBAVESTENJE][13.12.2025 19:52] Tekst element dodat
+[GRESKA][13.12.2025 19:52] Greška pri čuvanju projekta: Infinite recursion (StackOverflowError) (through reference chain: raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Project["parent"]->raf.graffito.dsw.model.implementation.Workspace["children"])
+[OBAVESTENJE][13.12.2025 19:58] Projekat 'Test Projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 19:59] Prezentacija 'Prezentacija ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 19:59] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 19:59] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 19:59] Slide 's3 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 19:59] Logo element dodat
+[OBAVESTENJE][13.12.2025 19:59] Tekst element dodat
+[UPOZORENJE][13.12.2025 19:59] Nema ucitanih slika, prvo ucitajte sliku
+[UPOZORENJE][13.12.2025 20:00] Nema ucitanih slika, prvo ucitajte sliku
+[OBAVESTENJE][13.12.2025 20:00] Slika 'aktivnost2.png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:00] Slika 'aktivnost2.png' dodata na slajd
+[OBAVESTENJE][13.12.2025 20:01] Tekst element dodat
+[OBAVESTENJE][13.12.2025 20:01] Slika 'renameIcon.jpg' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:01] Slika 'aktivnost2.png' dodata!
+[OBAVESTENJE][13.12.2025 20:01] Slika 'Screenshot (2).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:02] Slika 'Screenshot (11).png' uspesno ucitana
+[GRESKA][13.12.2025 20:02] Selektovani cvor nije projekat
+[GRESKA][13.12.2025 20:02] Greška pri čuvanju projekta: Infinite recursion (StackOverflowError) (through reference chain: java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"])
+[OBAVESTENJE][13.12.2025 20:04] Projekat 'p ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:04] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 20:05] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:05] Tekst element dodat
+[OBAVESTENJE][13.12.2025 20:05] Logo element dodat
+[UPOZORENJE][13.12.2025 20:05] Nema ucitanih slika, prvo ucitajte sliku
+[OBAVESTENJE][13.12.2025 20:05] Slika 'Screenshot (10).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:05] Slika 'Screenshot (10).png' dodata!
+[GRESKA][13.12.2025 20:06] Greška pri čuvanju projekta: No serializer found for class java.awt.font.TextAttribute and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.TextElement["font"]->java.awt.Font["availableAttributes"]->java.awt.font.TextAttribute[0])
+[OBAVESTENJE][13.12.2025 20:09] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:09] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 20:10] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:10] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:10] Logo element dodat
+[OBAVESTENJE][13.12.2025 20:10] Tekst element dodat
+[OBAVESTENJE][13.12.2025 20:10] Slika 'redoIcon.png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:10] Slika 'redoIcon.png' dodata!
+[GRESKA][13.12.2025 20:10] Morate selektovati projekat
+[GRESKA][13.12.2025 20:11] Greška pri čuvanju projekta: Type id handling not implemented for type java.awt.Point (by serializer of type raf.graffito.dsw.serializer.PointSerializer) (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.LogoElement["location"])
+[OBAVESTENJE][13.12.2025 20:26] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:26] Prezentacija 'prezic ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 20:27] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:27] Slika 'Screenshot (9).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:27] Tekst element dodat
+[OBAVESTENJE][13.12.2025 20:27] Logo element dodat
+[OBAVESTENJE][13.12.2025 20:27] Slika 'Screenshot (9).png' dodata!
+[GRESKA][13.12.2025 20:28] Greška pri čuvanju projekta: No serializer found for class java.awt.font.TextAttribute and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.TextElement["font"]->java.awt.Font["availableAttributes"]->java.awt.font.TextAttribute[0])
+[OBAVESTENJE][13.12.2025 20:40] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:41] Prezentacija 'prz ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 20:41] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:41] Tekst element dodat
+[OBAVESTENJE][13.12.2025 20:41] Logo element dodat
+[OBAVESTENJE][13.12.2025 20:41] Slika 'Screenshot (10).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:41] Slika 'Screenshot (10).png' dodata!
+[GRESKA][13.12.2025 20:41] Morate selektovati projekat
+[GRESKA][13.12.2025 20:42] Greška pri čuvanju projekta: Infinite recursion (StackOverflowError) (through reference chain: java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"]->java.awt.Rectangle["bounds2D"])
+[OBAVESTENJE][13.12.2025 20:43] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:43] Prezentacija 'pres ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 20:43] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 20:44] Tekst element dodat
+[OBAVESTENJE][13.12.2025 20:44] Logo element dodat
+[OBAVESTENJE][13.12.2025 20:44] Slika 'Screenshot (9).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 20:44] Slika 'Screenshot (9).png' dodata!
+[GRESKA][13.12.2025 20:44] Morate selektovati projekat
+[OBAVESTENJE][13.12.2025 20:44] Projekat 'projekat' uspešno sačuvan u: projekat.json
+[OBAVESTENJE][13.12.2025 20:52] Projekat nije promenjen, nije potrebno čuvanje
+[OBAVESTENJE][13.12.2025 20:52] Logo element dodat
+[OBAVESTENJE][13.12.2025 20:52] Projekat nije promenjen, nije potrebno čuvanje
+[OBAVESTENJE][13.12.2025 20:52] Logo element dodat
+[OBAVESTENJE][13.12.2025 20:52] Projekat nije promenjen, nije potrebno čuvanje
+[OBAVESTENJE][13.12.2025 20:53] Tekst element dodat
+[OBAVESTENJE][13.12.2025 20:53] Projekat nije promenjen, nije potrebno čuvanje
+[OBAVESTENJE][13.12.2025 20:53] Projekat 'projekat' uspešno sačuvan kao: projekatkOPIJA.json
+[GRESKA][13.12.2025 20:54] Greška pri učitavanju projekta: Cannot construct instance of `raf.graffito.dsw.model.implementation.Presentation` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 4, column: 5] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0])
+[GRESKA][13.12.2025 20:56] Morate selektovati projekat
+[GRESKA][13.12.2025 20:56] Greška pri učitavanju projekta: Cannot construct instance of `raf.graffito.dsw.model.elementi.LogoElement` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 10, column: 9] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0])
+[GRESKA][13.12.2025 20:58] Greška pri učitavanju projekta: Depth (1001) exceeds the maximum allowed nesting depth (1000) (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0])
+[OBAVESTENJE][13.12.2025 20:59] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 21:00] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 21:00] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 21:00] Tekst element dodat
+[OBAVESTENJE][13.12.2025 21:00] Logo element dodat
+[OBAVESTENJE][13.12.2025 21:00] Slika 'Screenshot (9).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 21:00] Slika 'Screenshot (9).png' dodata!
+[GRESKA][13.12.2025 21:00] Morate selektovati projekat
+[OBAVESTENJE][13.12.2025 21:00] Projekat 'projekat' uspešno sačuvan u: projekat.json
+[OBAVESTENJE][13.12.2025 21:01] Projekat 'projekat' uspešno sačuvan kao: projekatKopija.json
+[OBAVESTENJE][13.12.2025 21:01] Projekat nije promenjen, nije potrebno čuvanje
+[OBAVESTENJE][13.12.2025 21:01] Logo element dodat
+[OBAVESTENJE][13.12.2025 21:01] Projekat nije promenjen, nije potrebno čuvanje
+[GRESKA][13.12.2025 21:01] Greška pri učitavanju projekta: Unexpected token (START_OBJECT), expected START_ARRAY: need Array value to contain `As.WRAPPER_ARRAY` type information for class java.awt.Point
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 10, column: 22] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.TextElement["location"])
+[GRESKA][13.12.2025 21:03] Greška pri učitavanju projekta: Could not resolve type id 'java.util.ArrayList' as a subtype of `java.util.List<raf.graffito.dsw.model.GraffNode>`: Configured `PolymorphicTypeValidator` (of type `com.fasterxml.jackson.databind.jsontype.BasicPolymorphicTypeValidator`) denied resolution
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 3, column: 41] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"])
+[GRESKA][13.12.2025 21:04] Morate selektovati roditeljski cvor
+[GRESKA][13.12.2025 21:04] Greška pri učitavanju projekta: Unexpected token (START_OBJECT), expected START_ARRAY: need Array value to contain `As.WRAPPER_ARRAY` type information for class java.awt.Point
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 10, column: 22] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.TextElement["location"])
+[UPOZORENJE][13.12.2025 21:05] Ime autora ne sme biti prazno
+[OBAVESTENJE][13.12.2025 21:05] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 21:05] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 21:05] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 21:05] Logo element dodat
+[OBAVESTENJE][13.12.2025 21:05] Tekst element dodat
+[OBAVESTENJE][13.12.2025 21:05] Slika 'Screenshot (10).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 21:05] Slika 'Screenshot (10).png' dodata!
+[OBAVESTENJE][13.12.2025 21:06] Projekat 'projekat' uspešno sačuvan u: projekat.json
+[OBAVESTENJE][13.12.2025 21:06] Projekat 'projekat' uspešno sačuvan kao: projekatkopija.json
+[GRESKA][13.12.2025 21:06] Greška pri učitavanju projekta: Unexpected token (START_OBJECT), expected START_ARRAY: need Array value to contain `As.WRAPPER_ARRAY` type information for class java.awt.Point
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 10, column: 22] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.LogoElement["location"])
+[OBAVESTENJE][13.12.2025 21:08] Projekat 'Novi Projekat ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 21:08] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][13.12.2025 21:08] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][13.12.2025 21:08] Tekst element dodat
+[OBAVESTENJE][13.12.2025 21:08] Logo element dodat
+[OBAVESTENJE][13.12.2025 21:09] Slika 'Screenshot (9).png' uspesno ucitana
+[OBAVESTENJE][13.12.2025 21:09] Slika 'Screenshot (9).png' dodata!
+[GRESKA][13.12.2025 21:09] Morate selektovati projekat
+[OBAVESTENJE][13.12.2025 21:09] Projekat 'Novi Projekat' uspešno sačuvan u: Novi Projekat.json
+[GRESKA][13.12.2025 21:09] Greška pri učitavanju projekta: Unexpected token (START_OBJECT), expected START_ARRAY: need Array value to contain `As.WRAPPER_ARRAY` type information for class java.awt.Point
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 10, column: 22] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.TextElement["location"])
+[OBAVESTENJE][14.12.2025 01:30] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:30] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][14.12.2025 01:30] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:30] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:30] Tekst element dodat
+[OBAVESTENJE][14.12.2025 01:31] Logo element dodat
+[OBAVESTENJE][14.12.2025 01:31] Slika 'Screenshot (12).png' uspesno ucitana
+[OBAVESTENJE][14.12.2025 01:31] Slika 'Screenshot (12).png' dodata!
+[OBAVESTENJE][14.12.2025 01:31] Projekat 'projekat' uspešno sačuvan u: projekat.json
+[OBAVESTENJE][14.12.2025 01:31] Projekat 'projekat' uspešno sačuvan kao: projekatSaveAs.json
+[GRESKA][14.12.2025 01:32] Greška pri učitavanju projekta: Could not resolve type id 'java.awt.Color' as a subtype of `java.awt.Color`: Configured `PolymorphicTypeValidator` (of type `com.fasterxml.jackson.databind.jsontype.BasicPolymorphicTypeValidator`) denied resolution
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 20, column: 39] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.TextElement["color"])
+[GRESKA][14.12.2025 01:32] Greška pri učitavanju projekta: Could not resolve type id 'java.awt.Color' as a subtype of `java.awt.Color`: Configured `PolymorphicTypeValidator` (of type `com.fasterxml.jackson.databind.jsontype.BasicPolymorphicTypeValidator`) denied resolution
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 20, column: 39] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["elementi"]->java.util.ArrayList[0]->raf.graffito.dsw.model.elementi.TextElement["color"])
+[OBAVESTENJE][14.12.2025 01:34] Projekat 'test2 ' uspesno kreiran
+[UPOZORENJE][14.12.2025 01:34] Naziv prezentacije ne moze biti prazan
+[OBAVESTENJE][14.12.2025 01:34] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][14.12.2025 01:34] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:34] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:34] Logo element dodat
+[OBAVESTENJE][14.12.2025 01:34] Tekst element dodat
+[OBAVESTENJE][14.12.2025 01:34] Slika 'Screenshot (11).png' uspesno ucitana
+[OBAVESTENJE][14.12.2025 01:34] Slika 'Screenshot (11).png' dodata!
+[GRESKA][14.12.2025 01:34] Morate selektovati projekat
+[OBAVESTENJE][14.12.2025 01:35] Projekat 'test2' uspešno sačuvan u: test2.json
+[OBAVESTENJE][14.12.2025 01:35] Projekat 'test2' uspešno sačuvan kao: test2Kopija.json
+[GRESKA][14.12.2025 01:35] Greška pri učitavanju projekta: Problem deserializing 'setterless' property ("selectedElements"): no way to handle typed deser with setterless yet
+ at [Source: (sun.awt.shell.Win32ShellFolder2); line: 49, column: 28] (through reference chain: raf.graffito.dsw.model.implementation.Project["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Presentation["children"]->java.util.ArrayList[0]->raf.graffito.dsw.model.implementation.Slide["selectedElements"])
+[OBAVESTENJE][14.12.2025 01:37] Projekat 'test3 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:37] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][14.12.2025 01:37] Slide 's ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:37] Slika 'Screenshot (10).png' uspesno ucitana
+[OBAVESTENJE][14.12.2025 01:37] Logo element dodat
+[OBAVESTENJE][14.12.2025 01:37] Slika 'Screenshot (10).png' dodata!
+[OBAVESTENJE][14.12.2025 01:37] Tekst element dodat
+[GRESKA][14.12.2025 01:38] Morate selektovati projekat
+[OBAVESTENJE][14.12.2025 01:38] Projekat 'test3' uspešno sačuvan u: test3.json
+[OBAVESTENJE][14.12.2025 01:38] Projekat 'test3' uspešno sačuvan kao: test3Kopija.json
+[OBAVESTENJE][14.12.2025 01:38] Projekat 'test3' uspešno učitan
+[OBAVESTENJE][14.12.2025 01:54] Projekat 'projekatTestiranje3 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:54] Prezentacija 'prezic ' uspesno kreirana
+[OBAVESTENJE][14.12.2025 01:55] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:55] Slide 's2 ' uspesno kreiran
+[GRESKA][14.12.2025 01:55] Morate selektovati roditeljski cvor
+[OBAVESTENJE][14.12.2025 01:55] Logo element dodat
+[OBAVESTENJE][14.12.2025 01:55] Tekst element dodat
+[UPOZORENJE][14.12.2025 01:55] Nema ucitanih slika, prvo ucitajte sliku
+[OBAVESTENJE][14.12.2025 01:55] Slika 'Screenshot (7).png' uspesno ucitana
+[OBAVESTENJE][14.12.2025 01:56] Elementi rotirani udesno!
+[OBAVESTENJE][14.12.2025 01:56] Slika 'Screenshot (7).png' dodata!
+[OBAVESTENJE][14.12.2025 01:57] Logo element dodat
+[OBAVESTENJE][14.12.2025 01:57] Šablon 'šablonTest1' uspešno sačuvan!
+[OBAVESTENJE][14.12.2025 01:57] Projekat 'projekatTestiranje3.1 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 01:58] Šablon 'šablonTest1.json' uspešno učitan!
+[OBAVESTENJE][14.12.2025 02:06] Projekat 'projekatTest4 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 02:07] Prezentacija 'prezentacija ' uspesno kreirana
+[OBAVESTENJE][14.12.2025 02:07] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][14.12.2025 02:07] Uspešno učitano 1 slika
+[OBAVESTENJE][14.12.2025 02:08] Uspešno učitano 3 slika
+[OBAVESTENJE][14.12.2025 02:08] Slika 'Screenshot (8).png' dodata na slajd
+[OBAVESTENJE][14.12.2025 02:08] Slika 'templateIcon.png' dodata na slajd
+[OBAVESTENJE][14.12.2025 02:08] Slika 'Screenshot (8).png' dodata!
+[OBAVESTENJE][14.12.2025 02:08] Slika 'templateIcon.png' dodata na slajd
+[OBAVESTENJE][20.12.2025 13:40] Projekat '1 ' uspesno kreiran
+[OBAVESTENJE][20.12.2025 13:41] Prezentacija '1 ' uspesno kreirana
+[OBAVESTENJE][20.12.2025 13:41] Slide '1 ' uspesno kreiran
+[GRESKA][20.12.2025 13:42] Morate selektovati roditeljski cvor
+[OBAVESTENJE][23.12.2025 14:15] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:15] Prezentacija 'p1 ' uspesno kreirana
+[OBAVESTENJE][23.12.2025 14:15] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:15] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:16] Režim promenjen na: Fullscreen
+[UPOZORENJE][23.12.2025 14:16] Ime autora ne sme biti prazno
+[OBAVESTENJE][23.12.2025 14:16] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:17] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][23.12.2025 14:17] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:34] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:34] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][23.12.2025 14:35] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:37] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:37] Prezentacija 'prez ' uspesno kreirana
+[OBAVESTENJE][23.12.2025 14:38] Slide 's1 ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:38] Slide 's2 ' uspesno kreiran
+[OBAVESTENJE][23.12.2025 14:38] Tekst element dodat
+[OBAVESTENJE][23.12.2025 14:38] Logo element dodat
+[UPOZORENJE][23.12.2025 14:39] Nema učitanih slika, prvo učitajte sliku
+[OBAVESTENJE][23.12.2025 14:39] Uspešno učitano 1 slika
+[OBAVESTENJE][23.12.2025 14:39] Slika 'Screenshot (10).png' dodata na slajd
+[OBAVESTENJE][23.12.2025 14:40] Slika 'Screenshot (10).png' dodata na slajd
+[OBAVESTENJE][23.12.2025 14:42] Šablon 'projekat_template' uspešno sačuvan!
+[OBAVESTENJE][23.12.2025 14:42] Režim promenjen na: Small
+[OBAVESTENJE][23.12.2025 14:42] Režim promenjen na: Normal
+[UPOZORENJE][23.12.2025 14:43] Ime autora ne sme biti prazno
+[OBAVESTENJE][23.12.2025 14:43] Projekat 'projekat2 ' uspesno kreiran
+[UPOZORENJE][23.12.2025 14:43] Naziv prezentacije ne moze biti prazan
+[OBAVESTENJE][23.12.2025 14:44] Šablon 'projekat_template.json' uspešno učitan!
+[OBAVESTENJE][25.12.2025 19:53] Projekat 'weww ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 19:53] Prezentacija 'q ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 19:53] Slide 'sws ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 19:53] Logo element dodat
+[OBAVESTENJE][25.12.2025 19:57] Projekat 'ww ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 19:57] Prezentacija 'ww ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 19:57] Slide 'wwqw1 ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:03] Projekat 'nn ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:03] Prezentacija 'q ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:04] Slide 'sw ' uspesno kreiran
+[GRESKA][25.12.2025 20:04] Slide ne moze imati decu!
+[OBAVESTENJE][25.12.2025 20:11] Projekat 'w ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:12] Prezentacija 'dw ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:12] Slide 'qwdw ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:12] Uspešno učitano 1 slika
+[GRESKA][25.12.2025 20:12] Nema otvorenog slajda
+[GRESKA][25.12.2025 20:13] Nema otvorenog slajda
+[OBAVESTENJE][25.12.2025 20:15] Projekat 'mmm ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:15] Prezentacija 'y ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:16] Slide 'bbbb ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:16] Zauzeto: 0.0%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][25.12.2025 20:18] Projekat 'dw ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:18] Prezentacija 'q ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:18] Slide '22e ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:23] Projekat 'dwqwq ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:23] Prezentacija 'q ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:23] Slide 'qde2 ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:23] Logo element dodat
+[OBAVESTENJE][25.12.2025 20:23] Logo element dodat
+[UPOZORENJE][25.12.2025 20:24] Nema učitanih slika, prvo učitajte sliku
+[OBAVESTENJE][25.12.2025 20:24] Tekst element dodat
+[OBAVESTENJE][25.12.2025 20:24] Logo element dodat
+[UPOZORENJE][25.12.2025 20:24] Nema učitanih slika, prvo učitajte sliku
+[UPOZORENJE][25.12.2025 20:24] Nema učitanih slika, prvo učitajte sliku
+[OBAVESTENJE][25.12.2025 20:24] Logo element dodat
+[UPOZORENJE][25.12.2025 20:25] Zauzeto: 151.4%
+Nema dovoljno prostora
+[UPOZORENJE][25.12.2025 20:25] Zauzeto: 151.4%
+Nema dovoljno prostora
+[OBAVESTENJE][25.12.2025 20:25] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 20:26] Režim promenjen na: Small
+[OBAVESTENJE][25.12.2025 20:26] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 20:27] Projekat 'dwq ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:27] Prezentacija 'dw ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:27] Slide 'ww ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:30] Projekat 'l ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:31] Prezentacija 'y ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:31] Slide 'mmn ' uspesno kreiran
+[UPOZORENJE][25.12.2025 20:31] Nema učitanih slika, prvo učitajte sliku
+[GRESKA][25.12.2025 20:31] Morate selektovati roditeljski cvor
+[OBAVESTENJE][25.12.2025 20:32] Uspešno učitano 1 slika
+[OBAVESTENJE][25.12.2025 20:35] Projekat 'ed ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:35] Prezentacija 'ew ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:36] Slide 'wq ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:36] Uspešno učitano 1 slika
+[OBAVESTENJE][25.12.2025 20:36] Uspešno učitano 1 slika
+[OBAVESTENJE][25.12.2025 20:37] Slika 'move.png' dodata na slajd
+[OBAVESTENJE][25.12.2025 20:37] Zauzeto: 6.3%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][25.12.2025 20:37] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 20:37] Režim promenjen na: Normal
+[OBAVESTENJE][25.12.2025 20:47] Projekat 'nn ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:48] Prezentacija 'g ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 20:48] Slide 'ffu ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 20:48] Logo element dodat
+[OBAVESTENJE][25.12.2025 20:48] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 20:48] Režim promenjen na: Normal
+[OBAVESTENJE][25.12.2025 20:48] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:09] Projekat 'ws ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:09] Prezentacija 'dwwd ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 21:09] Slide 'wqd ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:09] Logo element dodat
+[OBAVESTENJE][25.12.2025 21:09] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:09] Režim promenjen na: Normal
+[OBAVESTENJE][25.12.2025 21:14] Projekat 'bb ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:14] Prezentacija 'jj ' uspesno kreirana
+[UPOZORENJE][25.12.2025 21:14] Naziv slajda ne moze biti prazan
+[OBAVESTENJE][25.12.2025 21:14] Slide 'd ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:14] Logo element dodat
+[OBAVESTENJE][25.12.2025 21:14] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:14] Režim promenjen na: Small
+[OBAVESTENJE][25.12.2025 21:17] Projekat 'nnn ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:17] Prezentacija 'mjjnn ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 21:17] Slide ' nkl ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:17] Logo element dodat
+[OBAVESTENJE][25.12.2025 21:17] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:22] Projekat 'bb ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:22] Prezentacija 'vv ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 21:22] Slide 'nnu ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:22] Logo element dodat
+[OBAVESTENJE][25.12.2025 21:22] Logo element dodat
+[OBAVESTENJE][25.12.2025 21:23] Tekst element dodat
+[OBAVESTENJE][25.12.2025 21:23] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:23] Režim promenjen na: Small
+[OBAVESTENJE][25.12.2025 21:23] Režim promenjen na: Normal
+[OBAVESTENJE][25.12.2025 21:24] Uspešno učitano 1 slika
+[OBAVESTENJE][25.12.2025 21:24] Režim promenjen na: Normal
+[OBAVESTENJE][25.12.2025 21:25] Slika 'elena.png' dodata na slajd
+[OBAVESTENJE][25.12.2025 21:25] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:25] Režim promenjen na: Normal
+[OBAVESTENJE][25.12.2025 21:25] Projekat 'asqdw ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:25] Prezentacija 'dwqw\ ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 21:25] Slide 'sw ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:26] Uspešno učitano 1 slika
+[OBAVESTENJE][25.12.2025 21:26] Slika 'iva.png' dodata na slajd
+[OBAVESTENJE][25.12.2025 21:26] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:26] Režim promenjen na: Normal
+[OBAVESTENJE][25.12.2025 21:26] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:26] Elementi rotirani ulevo
+[OBAVESTENJE][25.12.2025 21:26] Elementi rotirani udesno!
+[OBAVESTENJE][25.12.2025 21:26] Zauzeto: 6.3%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][25.12.2025 21:29] Projekat 'casdc ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:29] Prezentacija 'd\ ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 21:29] Slide 'dads ' uspesno kreiran
+[UPOZORENJE][25.12.2025 21:29] Nema učitanih slika, prvo učitajte sliku
+[UPOZORENJE][25.12.2025 21:30] Nema učitanih slika, prvo učitajte sliku
+[UPOZORENJE][25.12.2025 21:30] Nema učitanih slika, prvo učitajte sliku
+[UPOZORENJE][25.12.2025 21:30] Nema učitanih slika, prvo učitajte sliku
+[OBAVESTENJE][25.12.2025 21:30] Uspešno učitano 1 slika
+[OBAVESTENJE][25.12.2025 21:35] Projekat 'nn ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:35] Prezentacija 'bjh ' uspesno kreirana
+[OBAVESTENJE][25.12.2025 21:35] Slide ' nnn ' uspesno kreiran
+[OBAVESTENJE][25.12.2025 21:36] Uspešno učitano 1 slika
+[OBAVESTENJE][25.12.2025 21:36] Slika 'zadatak-memorija.png' dodata na slajd
+[OBAVESTENJE][25.12.2025 21:37] Elementi rotirani ulevo
+[OBAVESTENJE][25.12.2025 21:37] Slika 'zadatak-memorija.png' dodata na slajd
+[OBAVESTENJE][25.12.2025 21:37] Režim promenjen na: Small
+[OBAVESTENJE][25.12.2025 21:37] Režim promenjen na: Fullscreen
+[OBAVESTENJE][25.12.2025 21:38] Slika 'zadatak-memorija.png' dodata na slajd
+[OBAVESTENJE][25.12.2025 21:38] Elementi rotirani udesno!
+[OBAVESTENJE][25.12.2025 21:39] Logo element dodat
+[OBAVESTENJE][25.12.2025 21:39] Režim promenjen na: Normal
+[GRESKA][25.12.2025 21:39] Morate selektovati roditeljski cvor
+[OBAVESTENJE][25.12.2025 21:39] Režim promenjen na: Fullscreen
+[OBAVESTENJE][28.12.2025 18:19] Projekat '1 ' uspesno kreiran
+[OBAVESTENJE][28.12.2025 18:19] Prezentacija '2 ' uspesno kreirana
+[OBAVESTENJE][28.12.2025 18:19] Slide '3 ' uspesno kreiran
+[OBAVESTENJE][28.12.2025 18:19] Logo element dodat
+[OBAVESTENJE][28.12.2025 18:20] Tekst element dodat
+[OBAVESTENJE][28.12.2025 18:20] Elementi rotirani ulevo
+[OBAVESTENJE][28.12.2025 18:20] Zauzeto: 2.1%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][28.12.2025 18:20] Zauzeto: 2.1%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][28.12.2025 18:20] Režim promenjen na: Fullscreen
+[OBAVESTENJE][28.12.2025 18:20] Režim promenjen na: Small
+[OBAVESTENJE][28.12.2025 18:47] Projekat 'm ' uspesno kreiran
+[OBAVESTENJE][28.12.2025 18:48] Prezentacija 'mk ' uspesno kreirana
+[OBAVESTENJE][28.12.2025 18:48] Slide 'nnnn ' uspesno kreiran
+[OBAVESTENJE][28.12.2025 18:48] Logo element dodat
+[OBAVESTENJE][28.12.2025 18:48] Elementi rotirani ulevo
+[OBAVESTENJE][28.12.2025 18:49] Logo element dodat
+[OBAVESTENJE][28.12.2025 18:49] Režim promenjen na: Fullscreen
+[OBAVESTENJE][28.12.2025 18:49] Režim promenjen na: Small
+[GRESKA][28.12.2025 18:49] Morate selektovati projekat
+[OBAVESTENJE][28.12.2025 18:50] Projekat 'mm m ' uspesno kreiran
+[OBAVESTENJE][28.12.2025 18:50] Prezentacija 'jhhh ' uspesno kreirana
+[OBAVESTENJE][28.12.2025 18:50] Slide 'nnn ' uspesno kreiran
+[OBAVESTENJE][28.12.2025 18:51] Logo element dodat
+[OBAVESTENJE][28.12.2025 18:51] Zauzeto: 2.1%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][28.12.2025 18:51] Zauzeto: 2.1%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][28.12.2025 18:51] Režim promenjen na: Fullscreen
+[OBAVESTENJE][28.12.2025 18:51] Zauzeto: 2.1%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][28.12.2025 18:51] Logo element dodat
+[OBAVESTENJE][28.12.2025 18:52] Zauzeto: 4.2%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][28.12.2025 18:52] Zauzeto: 2.3%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][29.12.2025 16:48] Projekat '1 ' uspesno kreiran
+[OBAVESTENJE][29.12.2025 16:48] Prezentacija 'q ' uspesno kreirana
+[OBAVESTENJE][29.12.2025 16:48] Slide 'nnnn ' uspesno kreiran
+[OBAVESTENJE][29.12.2025 16:48] Logo element dodat
+[OBAVESTENJE][29.12.2025 16:49] Tekst element dodat
+[UPOZORENJE][29.12.2025 16:49] Tekst ne sme biti prazan
+[OBAVESTENJE][29.12.2025 16:49] Tekst element dodat
+[OBAVESTENJE][29.12.2025 16:49] Elementi rotirani ulevo
+[OBAVESTENJE][29.12.2025 16:49] Logo element dodat
+[OBAVESTENJE][29.12.2025 16:50] Uspešno učitano 1 slika
+[OBAVESTENJE][29.12.2025 16:50] Slika 'iva.png' dodata na slajd
+[OBAVESTENJE][29.12.2025 17:00] Projekat 'projekat ' uspesno kreiran
+[OBAVESTENJE][29.12.2025 17:00] Prezentacija 'prez1 ' uspesno kreirana
+[OBAVESTENJE][29.12.2025 17:01] Slide 'slajd1 ' uspesno kreiran
+[OBAVESTENJE][29.12.2025 17:08] Logo element dodat
+[OBAVESTENJE][29.12.2025 17:08] Tekst element dodat
+[OBAVESTENJE][29.12.2025 17:08] Elementi rotirani ulevo
+[OBAVESTENJE][22.01.2026 13:40] Projekat 'nn ' uspesno kreiran
+[OBAVESTENJE][22.01.2026 13:40] Prezentacija '1 ' uspesno kreirana
+[OBAVESTENJE][22.01.2026 13:40] Slide 'slide1 ' uspesno kreiran
+[OBAVESTENJE][22.01.2026 13:40] Logo element dodat
+[OBAVESTENJE][22.01.2026 13:40] Tekst element dodat
+[OBAVESTENJE][22.01.2026 13:40] Režim promenjen na: Fullscreen
+[OBAVESTENJE][22.01.2026 13:41] Zauzeto: 4.2%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][22.01.2026 13:41] Zauzeto: 4.2%
+Ima dovoljno prostora (≥20% slobodno)
+[OBAVESTENJE][22.01.2026 13:41] Elementi rotirani ulevo
+[GRESKA][22.01.2026 13:41] Morate selektovati projekat
+[OBAVESTENJE][22.01.2026 13:41] Uspešno učitano 1 slika
+[OBAVESTENJE][22.01.2026 13:41] Slika 'iva.png' dodata na slajd
