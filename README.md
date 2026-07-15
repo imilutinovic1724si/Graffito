@@ -42,5 +42,5 @@ Cilj projekta bio je prepoznavanje situacija u kojima se mogu primeniti klasičn
 ## Pokretanje
 
 1. Otvoriti projekat u IntelliJ IDEA (ili drugom IDE-u sa Maven podrškom)
-2. Maven će automatski povući zavisnosti iz `pom.xml`
-3. Pokrenuti `AppCore.java`
+2. Maven će automatski povući zavisnosti iz pom.xml
+3. Pokrenuti AppCore.java
